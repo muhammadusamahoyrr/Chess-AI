@@ -42,7 +42,6 @@ python chess.py
 ---
 
 ## 📋 Sample Board
-
 ![Chess Game Screenshot](assets/game.jpg)
 
 
