@@ -43,9 +43,7 @@ python chess.py
 
 ## 📋 Sample Board
 
-<p align="center">
-  <img src="assets/game.jpg" alt="Chess Game Screenshot" width="600"/>
-</p>
+![Chess Game Screenshot](assets/game.jpg)
 
 
 ---
