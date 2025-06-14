@@ -26,7 +26,7 @@ A terminal-based chess game in Python with a smart AI opponent, Unicode board, a
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/chess-engine.git
+git clone https://github.com/muhammadusamahoyrr/Chess-AI.git
 cd chess-engine
 python chess.py
 ```
@@ -42,7 +42,7 @@ python chess.py
 ---
 
 ## 📋 Sample Board
-![Chess Game Screenshot](assets/game.jpg)
+![Chess Game Screenshot](https://raw.githubusercontent.com/muhammadusamahoyrr/Chess-AI/main/assets/game.jpg)
 
 
 ---
