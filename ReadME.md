@@ -42,7 +42,7 @@ python chess.py
 ---
 
 ## 📋 Sample Board
-![Chess Game Screenshot](https://raw.githubusercontent.com/muhammadusamahoyrr/Chess-AI/main/assets/game.jpg)
+![Chess Game Screenshot](./assets/game.jpg)
 
 
 ---
